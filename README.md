@@ -4,8 +4,6 @@ This repository contains a 3-part analysis pipeline simulating a disease outbrea
 
 These notebooks were developed as part of a hands-on project inspired by an AWS Deep Learning Institute (DLI) lab.
 
-⚠️ **Note:** The dataset used in this project is hosted in a restricted S3 bucket (`s3://dli-lms/...`) and is not publicly available. Code is provided for learning purposes.
-
 ---
 
 ## 📁 Notebooks
